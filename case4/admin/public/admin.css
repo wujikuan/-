@@ -1,0 +1,42 @@
+.fengo{display: inline;}
+.fengo select{width:55px;height:42px;}
+
+ol,ul {list-style: none;}
+a:link,
+a:visited,
+a:hover,
+a:active{text-decoration:none;}
+.mt10{margin-top:10px;}
+.mt20{margin-top:20px;}
+.mt30{margin-top:30px;}
+.mt40{margin-top:40px;}
+.mt50{margin-top:50px;}
+
+#logo{
+    width: 45px;
+    margin-top: -13px;
+}
+
+
+.adminlogin{
+    background-image: url('../../imgs/bg01.jpg');
+    background-position: center;
+    background-repeat: repeat-x;
+}
+
+.adminlogin h1{
+    color:#fff;
+}
+.adminlogin a:link,
+.adminlogin a:visited{
+    color:#000;
+}
+.adminlogin a:hover,
+.adminlogin a:active{
+    color:#fff;
+}
+
+
+
+
+
