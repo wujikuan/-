@@ -1,0 +1,117 @@
+
+/* ================删========================== */
+*{
+	list-style:none;
+	text-decoration:none;
+}
+.fr{float:right;}
+.fl{float:left;}
+.center{width:1200px;margin:0px auto;}
+.mt10{margin-top:10px;}
+.mt20{margin-top:20px;}
+.mt30{margin-top:30px;}
+.mt40{margin-top:40px;}
+.cp{background:pink;}
+.cb{background:blue;}
+.cg{background:green;}
+.cr{background:red;}
+.cf{color:#ff4466;}
+.border{border:1px solid #999999;}
+.span{font-size:20px;margin-top:10px;display:block;}
+.bgc{background-color:#f2f2f2;border:1px solid #f2f2f2;height:31px;}
+.fluid{width:100%;}
+.wh{height:31px;}
+.nav1{display:block;text-align:center ;
+	padding:4px 3px;color:#666;}
+.tx2{display:block;text-align:center ;padding:4px 3px;
+	color:#666;}
+.img img{margin-left:260px;}
+/* header end */
+
+/*购物车*/
+.gwc{width:30px;height:100%;
+	position:fixed;top:0px;right:0px;}
+
+.gwc1{width:20px;height:100%;padding:0px auto;}
+.div_gwc1{width:30px;height:38px;float:left;}
+.div_gwc2{width:30px;height:93px;
+	float:left;margin-top:0px;}
+.div_gwc3{width:30px;height:38px;position:fixed;
+	bottom:0;	right:0;}
+.tx{display:block;padding-top:15px;text-align:center ;
+	font-size:16px;font-weight:lighter;color:orange;}
+.tx1{display:block;text-align:center ;margin:4px;
+	font-size:15px;color:orange;}
+.ab a:hover{display:block;height:93px;width:31px; }
+/*
+ 购物车尾部 
+
+  蘑菇街搜索框*/	
+.ewm{width:83px;height:83px;}
+.ewm img{position:absolute;
+	margin-left:105px;margin-top:55px;
+	width:83px;height:83px;
+	display:block;}
+.ss{width:1200px;height:144px;margin-top: 0px;}
+.ss1{width:250px;height:144px;}
+.ss2{width:950px;height:144px;}
+.ss3{width:700px;height:144px;}
+.ss4{width:700px;height:70px;}
+.ss5{margin-top:35px;margin-left:100px;display:block;}
+.ss6{height:19px;width:518px;margin-top:0px;margin-left:100px;}
+.ss7 li{font-size:15px;	float:left;padding:0px 10px 0px 0px;}
+.ss7 span{display:block;font-size:12px;color:#999999;}
+.ss7 span:hover{color:#ff4466;}
+.ss8{width:700px;height:36px;}
+.ss9{height:36px;width:225px;background-color:#f46;margin-top:20px;}
+.ss9 span{display:block;font-size:25px;text-align:center;
+		letter-spacing:10px;color:white; }
+/*.ss10{font-size:20px;letter-spacing:20px;}*/
+.ss10 li{display:block;font-size:20px;float:left;
+	/*letter-spacing:20px;*/font-weight:bold;
+	color:black;margin:15px 20px ;
+	text-align:center;}
+.ss11{border-bottom:1px solid red}
+.form-control{size:400px;}
+.imgs1{margin-top:40px;}
+
+
+/*蘑菇街搜索框尾部*/
+
+
+/*蘑菇服务*/
+
+.mgfw1{height:160px;margin-top:30px;border-top:1px solid #ccc;}
+.mgfw{width:1200px;height:160px; 
+	border-bottom:1px solid #ccc;margin-top:0px;}
+.mgfw2{width:246px;height:160px;}
+.mgfw3{width:954px;height:160px;}
+.mgfw2 p{display:block;font-size:12px;color:#999999;}
+.mgfw5{width:318px;height:160px;}
+.mgfw4{width:636px;height:160px;}
+.mgfw6{width:212px;height:160px;}
+.mgfw7{width:424px;height:160px;}
+.mgfw6 span{display:block;color:#999999;}
+.mgfw6 span:hover{display:block;color:pink;}
+.mgfw5 img{float:left;}
+/*蘑菇服务尾部 */
+
+
+/*页脚服务*/
+
+.yj{width:1200px;height:25px;margin-top:0px;} 
+.yj span{float:left;display:block;margin:0px 3px;font-size:13px;color:#999999;}
+.yj a span:hover{color:#ff0078;}
+/*页脚尾部 */
+
+
+
+
+
+
+
+
+
+
+
+/* ========================================= */

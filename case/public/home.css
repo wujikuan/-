@@ -1,0 +1,49 @@
+ol,ul {list-style: none;}
+a:link,
+a:visited,
+a:hover,
+a:active{text-decoration:none;}
+.mt10{margin-top:10px;}
+.mt20{margin-top:20px;}
+.mt30{margin-top:30px;}
+.mt40{margin-top:40px;}
+.mt50{margin-top:50px;}
+.fr{float:right;}
+.fl{float:left;}
+.cc{background-color:#999999 };
+.center{width:1200px;margin:-50px auto;}
+.bor1{border-radius:8px;border:1px solid #999999;}
+#back{background-color:#ff4466;border-radius:6px;margin-top:20px;}
+.image img{margin:20px auto;}
+body{
+    margin-top: 50px;
+}
+.s1 h4{
+    display: block;/*定义显示形式*/
+    overflow: hidden;/*截取超出字符*/
+    text-overflow: ellipsis;/*超出字符以…代替*/
+    white-space: nowrap; /*确定超出宽度字符不换行*/
+}
+#logo{
+    width: 45px;
+    margin-top: -13px;
+}
+.bgc{background-color:#f2f2f2;border:1px solid #f2f2f2;height:31px;}
+.bd{background-color:#f2f2f2;border:1px solid #f2f2f2;border-radius:5px;}
+.fluid{width:100%;}
+.wh{height:31px;}
+.nav1{display:block;text-align:center ;
+	padding:4px 3px;color:#666;}
+.tx2{display:block;text-align:center ;padding:4px 3px;
+	color:#666;}
+.spic img{
+    border:1px solid #fff;
+}
+.spic img:hover{
+    border:1px solid #f00;
+    box-shadow: 0 0 10px #f00;
+}
+
+.zan{
+    font-size: 20px;
+}

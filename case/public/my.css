@@ -1,0 +1,214 @@
+*{list-style:none;text-decoration:none;}
+.back-image img{display:block;margin:50px auto;}
+.back-image h1{position:absolute;left:620px;bottom:270px;}
+.margin{margin-top:-20px;}
+.fr{float:right;}
+.fl{float:left;}
+.center{width:1200px;margin:0px auto;}
+.mt10{margin-top:10px;}
+.mt20{margin-top:20px;}
+.cp{background:pink;}
+.cb{background:blue;}
+.cg{background:green;}
+.cr{background:red;}
+.zan{font-size:20px;}
+.red{color:red;}
+
+.bgc{background-color:#f2f2f2;
+	border:1px solid #f2f2f2;height:31px;}
+.fluid{width:100%;}
+.wh{height:31px;}
+.nav1{display:block;text-align:center ;
+	padding:4px 3px;color:#666;}
+.tx2{display:block;text-align:center ;padding:4px 3px;
+	color:#666;}
+/* header end */
+
+/*购物车*/
+.gwc{width:30px;height:100%;/* background:pink;*/ 
+	position:fixed;top:0px;right:0px;}
+
+/*.gwc1{width:20px;height:100%;padding:0px auto;}
+.div_gwc1{width:30px;height:38px;float:left;}
+.div_gwc2{width:30px;height:93px;
+	float:left;margin-top:0px;}*/
+.div_gwc3{width:30px;height:38px;position:fixed;
+	bottom:0;right:0;}
+/*.tx{display:block;padding-top:15px;text-align:center ;
+	font-size:16px;font-weight:lighter;color:orange;}
+.tx1{display:block;text-align:center ;margin:4px;
+	font-size:15px;color:orange;}
+.ab a:hover{display:block;height:93px;width:31px; }*/
+/*
+ 购物车尾部 
+
+  蘑菇街搜索框*/
+.bor{border:1px solid #999999; height:30px;border-radius:3px;}	
+.bor p{text-align:center;margin-top:4px;}	
+/*.bor h4{float:right;display:block;margin-right:10px;}	*/
+.bor span{display:block;text-align:center;margin-top:2px;}	
+.ewm{width:83px;height:83px;}
+.ewm img{position:absolute;
+	margin-left:105px;margin-top:55px;
+	width:83px;height:83px;
+	display:block;}
+.ss{width:1200px;height:144px;margin-top: 0px;}
+.ss1{width:250px;height:144px;}
+.ss2{width:950px;height:144px;}
+.ss3{width:700px;height:144px;}
+.ss4{width:700px;height:70px;}
+.ss5{margin-top:35px;margin-left:100px;display:block;}
+.ss6{height:19px;width:518px;margin-top:0px;margin-left:100px;}
+.ss7 li{font-size:15px;	float:left;padding:0px 10px 0px 0px;}
+.ss7 span{display:block;font-size:12px;color:#999999;}
+.ss7 span:hover{color:#ff4466;}
+.ss8{width:700px;height:36px;}
+.ss9{height:36px;width:225px;background-color:#f46;margin-top:20px;}
+.ss9 span{display:block;font-size:25px;text-align:center;
+		letter-spacing:10px;color:white; }
+/*.ss10{font-size:20px;letter-spacing:20px;}*/
+.ss10 li{display:block;font-size:20px;float:left;
+	/*letter-spacing:20px;*/font-weight:bold;
+	color:black;margin:15px 20px ;
+	text-align:center;}
+.ss11{border-bottom:1px solid red}
+.form-control{size:400px;}
+.imgs1{margin-top:40px;}
+
+
+/*蘑菇街搜索框尾部*/
+
+/*主菜单*/
+/*.main{height:550px;width:1200px;}
+.main1{height:550px;width:233px; border:1px solid red;}
+.main6{width:233px;height:42px;position:relative;}
+.box1{width:292px;height:550px;position:absolute;display:none;
+	background-color:white;margin-top:-11px;
+	margin-left:232px;border:1px solid #ccc;}
+
+.main6:hover .box1{display:block;}
+.cbb{color:black;}
+.box2{width:270px;height:88px;margin-left:20px;margin-top:10px;}
+.box2 p{display:block;color:#999999;float:left;
+	margin-left:5px;margin-top:3px;font-size:12px;}
+.box2 p:hover{text-decoration:underline; }
+.box3{width:270px;height:88px;margin-left:20px;margin-top:10px;}
+.box4{width:270px;height:88px;margin-left:20px;margin-top:10px;}
+.box5{width:270px;margin-left:20px;margin-top:10px;}
+.box5 img{margin:20px auto;}
+.box6{width:270px;height:18px;padding:0px auto;}
+.box7{width:270px;height:15px;margin-left:-50px;margin-top:2px;}
+.box7 span{display:block;font-size:12px;color:#999999;
+	margin-top:2px;margin-right:2px;font-weight:400px;}*/
+
+/*
+.main6 li{display:block;float:left;}
+.main6 span{display:block;margin-left:10px;margin-top:11px;color:#999999;}
+.main6 span:hover{text-decoration:underline;}
+#ma{ font-size:15px;margin-left:-30px;margin-top:10px;color:black;} 
+#mm{color:#ff4466;}
+.main2{width:947px;height:550px;}
+.main3{width:694px;height:550px;}
+.main4{height:528px;width:218px;
+	margin-top:20px;border:1px solid red;}
+.main3 img{margin-top:20px;}
+.main5{width:218px; height:264px;}
+.main5 img{margin:20px 18px;}
+*/
+/*主菜单尾部*/
+
+
+
+/* 限时快抢 */
+.xskq{width:1200px;height:300px;
+	border-top:1px solid black;
+	margin-top:10px;}
+.xskq1{width:225px;height:300px;}
+.xskq2{width:955px;height:300px;}
+.xskq3{width:580px;height:300px;}
+.xskq4{width:360px;height:300px;}
+.xskq5{width:360px;height:145px;}
+.xskq5{width:360px;height:145px;}
+.xskq6{width:335px;height:300px;}
+.xskq7{width:245px;height:300px;float:right;}
+
+/* 限时快抢尾部 */
+
+/* 品牌馆 */
+.pp{width:1200px;height:60px;margin-top:45px;}
+.pm{width:1202px;height:500px;margin-top:0px;}
+
+.pp1{width:1200px;height:32px;margin-top:15px;}
+.pp2{width:492px;height:12px;margin-top:10px;}
+.pp3{width:708px;height:32px;/*argin-top:px;*/}
+.pp4{width:216px;height:32px;}
+.pp2 span{display:block;font-style:italic;color:#999999;font-size:15px;}
+.pp4 span{display:block;font-weight:bold;color:#999999;
+		font-size:30px;text-align:center;}
+.pp4 span:hover{color:pink;}
+
+
+
+/* 品牌馆尾部 */
+
+/*运动*/
+.yd{width:1200px;height:60px;margin-top:45px;}
+.ydm{width:1200px;height:500px;margin-top:0px;}
+
+/*运动尾部*/
+
+/*红人*/
+.hr{width:1200px;height:60px;margin-top:45px;}
+.hrm{width:1200px;height:500px;margin-top:0px;}
+.hrm1{width:225px;height:500px;border:1px solid #ccc;}
+.hrm2{width:955px;height:500px;}
+.hrm3{width:305px;height:500px;}
+.hrm4{width:630px;height:500px;}
+.hrm5{width:305px;height:330px;}
+.hrm6{width:305px;height:150px;margin-top:20px;}
+.hrm7{width:223px;height:393px;}
+.hrm10 img{display: block;width: 170px;height: 170px;
+		margin:15px auto; }
+.hrm10{width:223px;height:196px;}
+.hrm8{width:223px;height:106px;margin-top:0px;}
+.hrm9{width:74px;height:106px;margin-top:0px;}
+.hrm9 li span{display:block;margin:15px auto auto -30px;
+	font-size:12px; color:black;color:#999999;}
+.hrm9 span:hover{color:pink;}
+.hrm11{width:149px;height:106px;margin-top:0px;}
+.hrm12{width:130px;height:150px;}
+.hrm13{width:175px;height:150px;}
+.hrm13 span{display: block;height: 24px;line-height: 24px;text-align: left;color:#999999;overflow: hidden;white-space: nowrap;-o-text-overflow: ellipsis;
+	text-overflow: ellipsis;color:black;}
+.hrm13 span:hover{color:pink;}	
+.hrm14{width:175px; height:24px;margin-top:40px;}
+.hrm15{width:175px; height:24px;margin-top:0px;}
+.hrm15 span{color:#999;}
+/*红人尾部*/
+
+
+/*蘑菇服务*/
+
+.mgfw1{height:160px;margin-top:90px;border-top:1px solid #ccc;}
+.mgfw{width:1200px;height:160px; 
+	border-bottom:1px solid #ccc;margin-top:0px;}
+.mgfw2{width:246px;height:160px;}
+.mgfw3{width:954px;height:160px;}
+.mgfw2 p{display:block;font-size:12px;color:#999999;}
+.mgfw5{width:318px;height:160px;}
+.mgfw4{width:636px;height:160px;}
+.mgfw6{width:212px;height:160px;}
+.mgfw7{width:424px;height:160px;}
+.mgfw6 span{display:block;color:#999999;}
+.mgfw6 span:hover{display:block;color:pink;}
+.mgfw5 img{float:left;}
+/*蘑菇服务尾部 */
+
+
+/*页脚服务*/
+
+.yj{width:1200px;height:25px;margin-top:0px;} 
+.yj span{float:left;display:block;margin:0px 3px;font-size:13px;color:#999999;}
+.yj a span:hover{color:#ff0078;}
+/*页脚尾部 */
+
